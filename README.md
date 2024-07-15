@@ -131,6 +131,7 @@ VAR1 is the chassis we use here at Fusion.  We have many features that can be fo
 ** The guide on how to setup working dashboard lights with any bus (using any Fusion Dashboard)
 ** Put the code below into the bus startup script/ startup section, after that make a model named Dashlights in the bus body and put the lights into that model, after that this script should work correctly.
 ** ------------------------------------------------------------------------
+
 ** local dashlights = script.Parent.Parent.Parent.Body:WaitForChild("Dashlights")
 ** for _,Child2 in pairs(dashlights:GetChildren()) do	
 		** 	if Child2:IsA("BasePart") then
@@ -139,6 +140,7 @@ VAR1 is the chassis we use here at Fusion.  We have many features that can be fo
 **    end
  **   end
 ** ------------------------------------------------------------------------
+
 ** If you have any issues with this script open a ticket or bug report in the Discord server. 
 
 # ROUTE TAG V1:
