@@ -113,7 +113,7 @@ VAR1 is the chassis we use here at Fusion.  We have many features that can be fo
 ** (Recommended scale for shifter model: 0.152, You can change the scale by selecting the shifter model, go to Properties.  And change the scale by selecting it and changing the number. )
 ** FUSION BUS SALES GUIDE FOR SHIFTER
 
-** STEP 1: Put the "FBS Allison Shifter Addon" folder inside of A-Chassis plugins.
+STEP 1: Put the "FBS Allison Shifter Addon" folder inside of A-Chassis plugins.
 
 ** STEP 1: Go into the "FBS Allison Shifter Addon" folder,  and open up Values,
 ** inside of Values you will see an object value named "Variables"
