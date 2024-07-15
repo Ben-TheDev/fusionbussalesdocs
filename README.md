@@ -135,12 +135,22 @@ STEP 1: Put the "FBS Allison Shifter Addon" folder inside of A-Chassis plugins.
  ------------------------------------------------------------------------
 
  local dashlights = script.Parent.Parent.Parent.Body:WaitForChild("Dashlights")
+ 
  for _,Child2 in pairs(dashlights:GetChildren()) do	
+ 
  if Child2:IsA("BasePart") then
+ 
  coroutine.resume(coroutine.create(function()	
+ 
+ Child2.Material = Enum.Material.Neon
+ 
   end))
+
+  
 end
+
 end
+
  ------------------------------------------------------------------------
 
  If you have any issues with this script open a ticket or bug report in the Discord server. 
