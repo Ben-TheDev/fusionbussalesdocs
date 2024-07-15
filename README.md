@@ -3,6 +3,7 @@
 [Click this to return to main page](https://ben-thedev.github.io)
 
 [About the Developer](https://ben-thedev.github.io/FusionBusSalesAboutTheDeveloper/)
+
 Chassis Info:
 VAR1 is the chassis we use here at Fusion.  We have many features that can be found surprising for a ROBLOX bus.  Here's a list of what we bring.
 
